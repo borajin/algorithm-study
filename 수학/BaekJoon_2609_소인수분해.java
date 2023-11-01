@@ -5,7 +5,7 @@ import java.io.InputStreamReader;
 import java.io.OutputStreamWriter;
 import java.util.StringTokenizer;
 
-public class BaekJoon_2609_최대공약수와최소공배수 {
+public class BaekJoon_2609_소인수분해 {
 
   //https://www.acmicpc.net/problem/2609
 
