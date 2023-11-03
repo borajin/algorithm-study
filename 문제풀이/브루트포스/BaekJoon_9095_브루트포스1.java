@@ -1,10 +1,12 @@
+package 브루트포스;
+
 import java.io.BufferedReader;
 import java.io.BufferedWriter;
 import java.io.IOException;
 import java.io.InputStreamReader;
 import java.io.OutputStreamWriter;
 
-public class BaekJoon_9095_브루트포스_재귀1 {
+public class BaekJoon_9095_브루트포스1 {
   //  https://www.acmicpc.net/problem/9095
 
   static int[] numbers = {1,2,3};
