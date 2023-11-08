@@ -8,7 +8,7 @@ import java.io.OutputStreamWriter;
 import java.util.Arrays;
 import java.util.StringTokenizer;
 
-public class BaekJoon_1759_브루트포스2 {
+public class BaekJoon_1759_암호만들기 {
 
   // https://www.acmicpc.net/problem/1759
 

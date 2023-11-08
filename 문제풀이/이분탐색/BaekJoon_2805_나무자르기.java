@@ -7,7 +7,7 @@ import java.io.InputStreamReader;
 import java.io.OutputStreamWriter;
 import java.util.StringTokenizer;
 
-public class BaekJoon_2805_이분탐색1 {
+public class BaekJoon_2805_나무자르기 {
 
   //https://www.acmicpc.net/problem/2805
 
